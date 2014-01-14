@@ -1,12 +1,93 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <title>SCPTCG Beta 0.1</title>    
-    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <title>SCPTCG Beta 0.1</title>
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/game.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="HEAD" class="navbar navbar-default navbar-static-top" role="navigation">
+        <p class="navbar-brand">
+            SCPTCG v0.1
+        </p>
+        <p class="navbar-text pull-right">
+            Hello, User!
+        </p>
+    </div>
+        <div id="HUD" class="row">
+            <div class="col-sm-1">
+                &nbsp;
+            </div>
+            <div class="col-sm-7">
+                <div class="row">
+                <span class="col-xs-10" style="font-size:0.9em;">It's Your Turn: Contain Anomalies Phase.</span>
+                <span class="col-xs-2 text-right" style="font-size:0.9em;">Turn 11</span>                    
+                </div>
+                <div class="col-xs-12" style="height:20px;">
+                    <div class="progress progress-striped active">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                        </div>
+                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 text-center" style="font-size:0.8em;padding:0px">
+                    <div class="col-xs-2" style="display:inline-block;">Research</div>
+                    <div class="col-xs-2" style="display:inline-block;">Recruit</div>
+                    <div class="col-xs-2" style="display:inline-block;">Requisition</div>
+                    <div class="col-xs-2" style="display:inline-block;">Recon</div>
+                    <div class="col-xs-1" style="display:inline-block;">Secure</div>
+                    <div class="col-xs-1" style="display:inline-block;">Contain</div>
+                    <div class="col-xs-1" style="display:inline-block;">Protect</div>
+                </div>
+            </div>
+            <div id="opponentsInfo" class="col-sm-3 well well-sm" style="font-size:0.9em;height:55px;">
+                <span>Opponent: <strong id="opponentsHandle">SCP-1190</strong></span><br/>
+                <span><strong>Deck:</strong> <span id="opponentsDeck">52</span>  </span>
+                <span><strong>Hand:</strong> <span id="opponentsDeck">6</span>  </span>
+                <span><strong>Victory Pts:</strong> <span id="opponentsDeck">0</span>  </span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-1">
+                &nbsp;
+            </div>
+            <div id="opponentsSite" class="col-sm-10 well well-sm text-center">
+
+            </div>
+        </div>
+        <div id="worldZone" class="row">
+            <div class="col-sm-1">
+                &nbsp;
+            </div>
+            <div class="col-sm-7">
+
+            </div>
+            <div id="log" class="col-sm-3 well well-sm">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-1">
+                &nbsp;
+            </div>
+            <div id="playersSite" class="col-sm-10 well well-sm text-center">
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-1">
+                &nbsp;
+            </div>
+            <div id="playersHand" class="col-sm-10 well well-sm text-center">
+
+            </div>
+        </div>
+
     <script src="bower_components/jquery/jquery.min.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-</head>
-<body>
-
+    <script src="js/game.js"></script>
 </body>
+
 </html>
