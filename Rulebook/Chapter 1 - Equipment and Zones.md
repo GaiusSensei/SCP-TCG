@@ -23,7 +23,7 @@ A valid SCPTCG deck contains the following valid SCPTCG cards:
 - Nine Clubs numbered from Ten to Two, nine Diamonds numbered from Ten to Two, nine Hearts numbered from Ten to Two, and nine Spades numbered from Ten to Two  
 - One Ace of Clubs, one Ace of Diamonds, one Ace of Hearts and one Ace of Spades  
 
-Each Card Set ("Heritage One, Redacted, etc.") usually contains two extra cards: the Red Joker and the Black Joker. These cards are used for information purposes only, and will never affect gameplay in any way.
+Each Card Set ("Heritage One, Redacted, etc.") usually contains two extra cards: the Black Joker and the Red Joker. These cards are used for information purposes only, and will never affect gameplay in any way.
     
 Zones
 ---
@@ -33,3 +33,4 @@ An SCPTCG game consists of the following zones:
 - Each player have their own Site zone, which may contain any number of face-up cards. All cards in this zone are visible to all players, and activated personnel, activated items as well as contained anomalies are placed here.  
 - Each player have their own Resouces zone, which contains their deck of 52 face-down cards arranged in a stack. All cards in this zone are not visible to any player.  
 - Each player have their own Neutralized zone, which contains any card that has been removed from the game face-up and arranged in a stack. All cards in this zone are visible to all players.  
+- Each player have their own Hand zone, which contains any card that has been 'researched' from the Resources zone. All cards in this zone are visible only to the player who owns the zone.
