@@ -1,5 +1,6 @@
 Chapter 1 - Equipment & Zones  
 ===
+In order to play a game of SCP Trading Card Game, each player needs a valid Deck of SCP-TCG Playing Cards and some six-sided dice to be used as counters.
 
 Equipment  
 ---
