@@ -32,8 +32,15 @@ Quick Start: Game Proper
 
 This is discussed in detail on the Rulebook's Chapter 3.
 
-Glossary
+F.A.Q.
 ---
-**Activate**: Put the card from your hand to your Site.  
-**Deactivate**: Put the card from anywhere to the bottom of your deck.  
-**Neutralize**: Remove the card from the game.  
+Q: How do I help with the design & development of this TCG?  
+A: Two ways: Donate, or Playtest. You can donate by clicking [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JS4932R7F2CWL) (Check that you are donating to Gaius & Hart, Co. before proceeding). OR You can help by Playtesting. If you find any issues with the game, please file it [here](https://github.com/GaiusSensei/SCP-TCG/issues) in the github issue tracker.   
+
+Q: What's with the REDACTED Cardset?  
+A: These are cards that can be used if there are no other legal cards available in the slot. See Chapter 6 Tournament regarding Banned Cards.  
+
+Q: Will you include \*Favorite SCP\* here? I have an idea on how it may work..  
+A: File a suggestion [here](https://github.com/GaiusSensei/SCP-TCG/issues). Please understand that I'm trying to keep the power level of the cards consistent, so game breaking suggestions probably won't be implemented.  
+
+License: [CC BY-SA 3.0](https://github.com/GaiusSensei/SCP-TCG/blob/master/LICENSE.md)
