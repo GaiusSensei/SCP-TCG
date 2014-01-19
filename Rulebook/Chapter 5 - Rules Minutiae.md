@@ -15,7 +15,7 @@ Cards with the Safe tag usually have an *Anomaly Level* of 2 and an *Uncontained
 - **Personnel**    
 Cards with the Personnel tag are activated on the *Recruitment Phase* and are used to secure Anomalies during the *Secure Anomalies*. 
 - **Item**  
-Cards with the Item tag are activated on the *Requisition Phase* and are used to amplify card with the Personnel tag.
+Cards with the Item tag are activated on the *Requisition Phase* and are used to amplify cards with the Personnel tag. Item cards cannot be used by itself in order to secure Anomalies.
 - **Specialist**  
 Cards with the Specialist tag usually have a Personnel tag also.
 - **Operation**  
@@ -25,8 +25,8 @@ Cards with the Event tag are used on the *Recon Phase* and are discovered random
 
 Simultaneous Effects
 ---
-If anything happens simultaneously, such as multiple triggers on the same condition, or multiple players activating an Operation card in the same time, the effects & cards will always resolve in the order below:
-1. The active player will decide the order of cards/effects that they control would resolve.
-2. The next player in turn order will decide next, then the next player, until all simultaneous effects are in order.
+If anything happens simultaneously, such as multiple triggers on the same condition, or multiple players activating an Operation card in the same time, the effects & cards will always resolve in the order below:  
+1. The active player will decide the order of cards/effects that they control would resolve.  
+2. The next player in turn order will decide next, then the next player, until all simultaneous effects are in order.  
 
-This means that the current active player will always resolve effects and triggers first, and each player can decide the order of resolution of simultaneous triggers.
+This means that the current active player will always resolve effects and triggers first, and each player can decide the order of resolution of simultaneous triggers.  
