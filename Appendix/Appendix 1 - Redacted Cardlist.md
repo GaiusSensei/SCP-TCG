@@ -7,8 +7,8 @@ Information
 ---
 No. of Cards: 56  
 No. of Subsets: 1   
-Effect Keywords: Passive, Unique, Anomaly Level, K-Class "Site Shutdown" Scenario, Uncontained, Secured, Activate, Deactivate & Neutralize. These effects are collectively known as "Evergreen" Keywords.  
-Card Tags: Anomaly, Keter, Euclid, Safe, Personnel, Item & Specialist. These tags are collectively known as "Evergreen" Tags.  
+Effect Keywords: Passive, Unique, Anomaly Level, K-Class "Site Shutdown" Scenario, Uncontained, Unsecured, Activate, Deactivate & Neutralize. These effects are collectively known as the Common Keywords.  
+Card Tags: Anomaly, Keter, Euclid, Safe, Personnel, Item & Specialist. These tags are collectively known as the Common Tags.  
 
 Cardlist
 ---
@@ -38,8 +38,8 @@ Text:
 - Recon Phase: Put any number of Anomaly or Event cards face-down to the shared Undiscovered Anomalies pile.
 - **If it's the first round, skip the phases below and pass the turn.**
 - Secure Anomalies Phase: Remove one counter of every kind on all the cards in the shared World zone, then reveal a random card on the shared Undiscovered Anomalies pile. You may now assign personnel to secure any cards on your Site or on the shared World zone.   
-- Contain Anomalies Phase: 
-- Protect Site Phase: 
+- Contain Anomalies Phase: Check if any Anomalies have triggered any 'Unsecured' or 'Uncontained' keywords. Afterwards, if the total value of cards securing an Anomaly card exceeds that card's value, then put the Anomaly card to your's Site.  
+- Protect Site Phase: Return all of your Personnel and Item cards back to your Site.  
 
 \#56/56 Red Joker **Common Set Keywords**  
 Text:
