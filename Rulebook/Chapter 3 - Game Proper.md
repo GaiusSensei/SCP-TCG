@@ -4,13 +4,13 @@ Chapter 3 - Game Proper
 Game Phases
 ---
 The active player takes the following phases below in order. A phase cannot be skipped, unless stated in another effect. After the active player's last phase, he passes the turn to the player to their left.  
-1. Research Phase
-2. Recruitment Phase
-3. Requisition Phase
-4. Reconnaissance Phase 
-5. Secure Anomalies Phase
-6. Contain Anomalies Phase
-7. Protect Site Phase
+1. Research Phase  
+2. Recruitment Phase  
+3. Requisition Phase  
+4. Reconnaissance Phase   
+5. Secure Anomalies Phase  
+6. Contain Anomalies Phase  
+7. Protect Site Phase  
 
 Research Phase
 ---
@@ -26,7 +26,7 @@ Recruitment Phase
 ---
 A. Any effects that has a trigger condition during the "beginning of the Recruitment Phase" are triggered.  
 B. The active player may now Activate any number of cards with the "Personnel" tag from their hand.  
-C. The active player may now use any cards that has the "Opportunity: Recruitment" keyword.   
+C. Any player may now use any cards that has the "Opportunity: Recruitment" keyword.   
 D. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Recruitment Phase" are triggered.   
 
 Requisition Phase
@@ -62,7 +62,7 @@ F. When the player advances to the next phase, any effects that has a trigger co
 Contain Anomalies Phase
 ---
 A. Any effects that has a trigger condition during the "beginning of the Contain Anomalies Phase" are triggered.  
-- The common Evergreen Keywords "Unsecured" and "Uncontained" both trigger now.
+- The Common Keywords "Unsecured" and "Uncontained" both trigger now (see Chapter 4).
 
 B. If the total value of cards securing an Anomaly card exceeds that card's value in the shared World Zone, then put the Anomaly card to the active player's Site.  
 C. Any player may now use any cards that has the "Opportunity: Contain Anomalies" keyword.   
@@ -72,5 +72,5 @@ Protect Site Phase
 ---
 A. Any effects that has a trigger condition during the "beginning of the Protect Site Phase" are triggered.  
 B. The active player returns all of their Personnel and Item cards back to their Site.     
-C. The active player may now use any cards that has the "Opportunity: Protect Site" keyword.   
+C. Any player may now use any cards that has the "Opportunity: Protect Site" keyword.   
 D. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Protect Site Phase" are triggered.   

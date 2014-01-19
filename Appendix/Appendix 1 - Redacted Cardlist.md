@@ -35,7 +35,7 @@ Text:
 - Research Phase: Draw from your deck until you have 6 cards.
 - Recruit Phase: Activate Personnel cards from your hand.
 - Requisition Phase: Activate Item cards from your hand, and attach any Item cards in your Site to your Personnel cards. 
-- Recon Phase: Put any number of anomaly cards face-down to the shared Undiscovered Anomalies pile.
+- Recon Phase: Put any number of Anomaly or Event cards face-down to the shared Undiscovered Anomalies pile.
 - **If it's the first round, skip the phases below and pass the turn.**
 - Secure Anomalies Phase: Remove one counter of every kind on all the cards in the shared World zone, then reveal a random card on the shared Undiscovered Anomalies pile. You may now assign personnel to secure any cards on your Site or on the shared World zone.   
 - Contain Anomalies Phase: 
