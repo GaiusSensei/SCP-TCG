@@ -32,7 +32,7 @@ Keyword: **Unique**
 Anomaly Level
 ---
 Keyword: **Anomaly Level: X**  
-- When this card is discovered, put X Anomaly Counters in it. At the end of the game, if this card is contained in your site, gain X victory points.  
+- When this card is discovered, put X Anomaly Counters in it, and put in the shared World zone. At the end of the game, if this card is contained in your site, gain X victory points.  
 
 K-Class "Site Shutdown" Scenario
 ---
