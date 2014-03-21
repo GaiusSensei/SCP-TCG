@@ -52,7 +52,7 @@ A. Any effects that has a trigger condition during the "beginning of the Secure 
 B. Remove one counter of every kind on all cards in the shared World zone. 
 - eg. if there is an event card with two anomaly counters and one charge counter, as well as an anomaly card with four anomaly counters, the active player should remove one anomaly and one charge counter on the event card, and remove one anomaly counter on the anomaly card).  
 
-C. Randomly choose one player. You may flip a coin if there's two players, or roll a dice, as long as all players agree.
+C. Randomly choose one player. You may flip a coin if there's two players, or roll a dice, as long as all players agree.  
 D. Shuffle the chosen player's Unidentified Anomalies zone, and reveal one of the cards in it. Any effect on the revealed card that has a trigger condition when "discovered" are triggered.  
 E. The active player may now assign Personnel cards to secure Anomaly cards on his Site or the shared World zone.   
 F. Any player may now use any cards that has the "Opportunity: Secure Anomalies" keyword.   
