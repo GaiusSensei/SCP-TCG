@@ -41,7 +41,7 @@ F. When the player advances to the next phase, any effects that has a trigger co
 Reconnaissance Phase
 ---
 A. Any effects that has a trigger condition during the "beginning of the Reconnaissance Phase" are triggered.  
-B. The active player may now put any number of Anomaly or Event cards face-down to the Unidentified Anomalies zone.    
+B. The active player may now put any number of Anomaly or Event cards face-down to their Unidentified Anomalies zone.    
 C. Any player may now use any cards that has the "Opportunity: Reconnaissance" keyword.   
 D. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Reconnaissance Phase" are triggered.  
 E. If this is the first round of the game, the active player passes the turn to the next player (skipping the phases below).
@@ -52,12 +52,11 @@ A. Any effects that has a trigger condition during the "beginning of the Secure 
 B. Remove one counter of every kind on all cards in the shared World zone. 
 - eg. if there is an event card with two anomaly counters and one charge counter, as well as an anomaly card with four anomaly counters, the active player should remove one anomaly and one charge counter on the event card, and remove one anomaly counter on the anomaly card).  
 
-C. Randomly reveal a card from the Unidentified Anomalies zone and place it into the shared World zone. Any effect on the revealed card that has a trigger condition when "discovered" are triggered.  
-- When randomly revealing a card on the Unidentified Anomalies zone, we suggest rolling a six-sided dice and revealing the card according to the result. This is to avoid mixing up the owners of the cards, as well as to prevent bias when shuffling the stack.
-
-D. The active player may now assign Personnel cards to secure Anomaly cards on his Site or the shared World zone.   
-E. Any player may now use any cards that has the "Opportunity: Secure Anomalies" keyword.   
-F. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Secure Anomalies Phase" are triggered.   
+C. Randomly choose one player. You may flip a coin if there's two players, or roll a dice, as long as all players agree.
+D. Shuffle the chosen player's Unidentified Anomalies zone, and reveal one of the cards in it. Any effect on the revealed card that has a trigger condition when "discovered" are triggered.  
+E. The active player may now assign Personnel cards to secure Anomaly cards on his Site or the shared World zone.   
+F. Any player may now use any cards that has the "Opportunity: Secure Anomalies" keyword.   
+G. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Secure Anomalies Phase" are triggered.   
 
 Contain Anomalies Phase
 ---
@@ -65,6 +64,8 @@ A. Any effects that has a trigger condition during the "beginning of the Contain
 - The Common Keywords "Unsecured" and "Uncontained" both trigger now (see Chapter 4).
 
 B. If the total value of cards securing an Anomaly card exceeds that card's value in the shared World Zone, then put the Anomaly card to the active player's Site.  
+- Take note that an Ace has higher value than a King (and only a King).
+
 C. Any player may now use any cards that has the "Opportunity: Contain Anomalies" keyword.   
 D. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Contain Anomalies Phase" are triggered.  
 
@@ -74,3 +75,4 @@ A. Any effects that has a trigger condition during the "beginning of the Protect
 B. The active player returns all of their Personnel and Item cards back to their Site.     
 C. Any player may now use any cards that has the "Opportunity: Protect Site" keyword.   
 D. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Protect Site Phase" are triggered.   
+E. The active player passes the turn to the inactive player to their left (clockwise turn order).

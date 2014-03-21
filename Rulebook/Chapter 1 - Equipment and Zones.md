@@ -30,7 +30,7 @@ Zones
 ---
 An SCPTCG game consists of the following zones:  
 - A shared World zone, which may contain any number of face-up cards. All cards in this zone are visible to all players, and any discovered and uncontained anomalies are usually placed here.  
-- A shared Undiscovered Anomalies zone, which may contain any number of face-down cards arranged in a stack. All cards in this zone are not visible to any player. Anomalies and Events are usually placed here.  
+- Each player have their own Undiscovered Anomalies zone, which may contain any number of face-down cards arranged in a stack. All cards in this zone are not visible to any player. Anomalies and Events are usually placed here.  
 - Each player have their own Site zone, which may contain any number of face-up cards. All cards in this zone are visible to all players, and activated personnel, activated items as well as contained anomalies are placed here.  
 - Each player have their own Resouces zone, which contains their deck of 52 face-down cards arranged in a stack. All cards in this zone are not visible to any player.  
 - Each player have their own Neutralized zone, which contains any card that has been removed from the game face-up and arranged in a stack. All cards in this zone are visible to all players.  
