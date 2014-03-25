@@ -54,6 +54,8 @@ B. Remove one counter of every kind on all cards in the shared World zone.
 
 C. Randomly choose one player. You may flip a coin if there's two players, or roll a dice, as long as all players agree.  
 D. Shuffle the chosen player's Unidentified Anomalies zone, and reveal one of the cards in it. Any effect on the revealed card that has a trigger condition when "discovered" are triggered.  
+- All players are always eligible to be chosen, even if the player has zero cards in their Unidentified Anomalies zone. If the chosen player has zero cards in their Unidentified Anomalies zone, then no new anomalies are discovered this turn.  
+
 E. The active player may now assign Personnel cards to secure Anomaly cards on his Site or the shared World zone.   
 F. Any player may now use any cards that has the "Opportunity: Secure Anomalies" keyword.   
 G. When the player advances to the next phase, any effects that has a trigger condition during the "end of the Secure Anomalies Phase" are triggered.   
